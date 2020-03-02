@@ -1,5 +1,5 @@
 {
-  "name": "jpush-react-native-google-play",
+  "name": "jpush-react-native-google",
   "description": "React Native JPush component for Android and iOS",
   "homepage": "https://github.com/jpush/jpush-react-native",
   "main": "index.js",
