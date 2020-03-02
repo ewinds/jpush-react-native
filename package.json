@@ -1,14 +1,14 @@
 {
   "name": "jpush-react-native-google",
   "description": "React Native JPush component for Android and iOS",
-  "homepage": "https://github.com/jpush/jpush-react-native",
+  "homepage": "https://github.com/ewinds/jpush-react-native",
   "main": "index.js",
   "license": "ISC",
   "author": "wicked.tc130",
   "version": "2.6.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpush/jpush-react-native"
+    "url": "https://github.com/ewinds/jpush-react-native"
   },
   "keywords": [
     "react-native",
